@@ -11,7 +11,8 @@ This is a website relaunch and brand refresh for the now-defunct brand Swerve. I
 - Open index.html in browser of your choice
 
 ## Paper Plan
-Project Purpose
+
+### Project Purpose
 Create a fun and clean website to relaunch the Swerve milk drink brand using a grid layout. The site should be responsive and show off the brand, products, and contact info.
 
 ### Pages
