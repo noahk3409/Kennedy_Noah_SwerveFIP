@@ -5,10 +5,10 @@ This is my Final Integrated Project for the Interactive Media Design program at 
 This is a website relaunch and brand refresh for the now-defunct brand Swerve. It is a fully reimagined design and vision for the brand to bring their uniquely flavoured milk bottles back to the market.
 
 ## Installation
-Click the green <> Code button
-Click 'Download ZIP'
-Extract files
-Open index.html in browser of your choice
+- Click the green <> Code button
+- Click 'Download ZIP'
+- Extract files
+- Open index.html in browser of your choice
 
 ## Paper Plan
 Project Purpose
